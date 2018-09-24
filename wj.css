@@ -30,10 +30,10 @@ hr {
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-div.clear {
+input.btn{
 	transition: transform 0.5s;
 }
 
-div.clear:hover{
+input.btn:hover{
 	transform: scale(1.2);
 }
